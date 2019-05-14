@@ -102,3 +102,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# cat and dog datasets
+*.zip
+sample/
+train/
+*.jpg
+*.csv
+
+# weight file
+*.h5
